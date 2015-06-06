@@ -1,7 +1,7 @@
 name: The Grid Showcase
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.91228
+layout_spectrum: 0.10526
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
