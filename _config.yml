@@ -1,6 +1,6 @@
 name: The Grid Showcase
 favicon: null
-layout_spectrum: 0.10526
+layout_spectrum: 0.51754
 typography_spectrum: 1
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - "#1f1414"
-    - "#d12b2f"
-    - "#fff7b4"
-    - "#6c5b5a"
-    - "#b0a38e"
+    - '#1f1414'
+    - '#d12b2f'
+    - '#fff7b4'
+    - '#6c5b5a'
+    - '#b0a38e'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
